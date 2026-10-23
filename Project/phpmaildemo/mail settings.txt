@@ -1,0 +1,2 @@
+1) Gmail settings -> Forwarding and POP/IMAP - >Enable IMAP
+2)  https://myaccount.google.com/u/0/lesssecureapps -> enable 
